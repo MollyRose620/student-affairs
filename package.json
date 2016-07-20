@@ -1,0 +1,19 @@
+{
+  "name": "student-affairs",
+  "version": "1.0.0",
+  "description": "##Our Project \t*Wireframes \t*Adobe Kuler \t*Gantt Chart \t*Trello \t*Sitemap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MollyRose620/student-affairs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MollyRose620/student-affairs/issues"
+  },
+  "homepage": "https://github.com/MollyRose620/student-affairs#readme"
+}
