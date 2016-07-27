@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/MollyRose620/student-affairs/issues"
   },
-  "homepage": "https://github.com/MollyRose620/student-affairs#readme"
+  "homepage": "https://github.com/MollyRose620/student-affairs#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "normalize.css": "^4.2.0"
+  },
+  "devDependencies": {}
 }
